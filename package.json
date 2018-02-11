@@ -1,0 +1,45 @@
+{
+  "_from": "wepy-plugin-filemin",
+  "_id": "wepy-plugin-filemin@1.3.12",
+  "_inBundle": false,
+  "_integrity": "sha1-mFNpWHv5YUdo7Jn1KZlCUMMBcXM=",
+  "_location": "/wepy-plugin-filemin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wepy-plugin-filemin",
+    "name": "wepy-plugin-filemin",
+    "escapedName": "wepy-plugin-filemin",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/wepy-plugin-filemin/download/wepy-plugin-filemin-1.3.12.tgz",
+  "_shasum": "985369587bf9614768ec99f529994250c3017173",
+  "_spec": "wepy-plugin-filemin",
+  "_where": "/Users/casa/dev/fisher",
+  "author": {
+    "name": "Gcaufy"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "pretty-data": "github:vkiryukhin/pretty-data"
+  },
+  "deprecated": false,
+  "description": "wepy filemin plugin",
+  "keywords": [
+    "filemin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "wepy-plugin-filemin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.3.12"
+}
